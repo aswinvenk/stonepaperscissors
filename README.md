@@ -11,7 +11,7 @@ Installation
 Run the following to install:
 
 ```python
-pip install stonepaperscissorsgamepkg
+pip install spsgamepkg
 ```
 
 Methods
@@ -36,7 +36,7 @@ EXAMPLE CODE
 ============
 
 ```python
-from src.spsgamepkg import game
+from spsgamepkg import game
 
 # Display rules
 >> game.rules()
